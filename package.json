@@ -1,0 +1,26 @@
+{
+  "name": "softwareprops.com",
+  "version": "1.0.0",
+  "description": "software props website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/softwareprops/softwareprops.com.git"
+  },
+  "keywords": [
+    "software",
+    "props"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/softwareprops/softwareprops.com/issues"
+  },
+  "homepage": "https://github.com/softwareprops/softwareprops.com",
+  "devDependencies": {
+    "surge": "^0.14.3"
+  }
+}

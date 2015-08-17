@@ -1,0 +1,5 @@
+deployment:
+  production:
+    branch: master
+    commands:
+      - surge --project ./ --domain softwareprops.com
